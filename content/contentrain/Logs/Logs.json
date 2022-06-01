@@ -1,7 +1,7 @@
 [
   {
     "ID": "935a0480-1153-403a-b781-998a0bb3b709",
-    "content": "<div itemprop=\"articleBody\" class=\"content\"><h2>New Features</h2>\n<ul>\n<li>You can now play a YouTube video on audience screens as if you were watching it with your audience. When you pause the video it will stop playing at the audience screens, and when you start it will start playing at the audience screens.</li>\n</ul>\n<h2>Fixes</h2>\n<ul>\n<li>Fix displaying an empty paid subscribers list for users who have less than 100 subscribers</li>\n<li>Fix when the subscription price is updated, discount codes created for subscriptions become invalid.</li>\n<li>Fix stream video recordings are downloaded in low resolution</li>\n</ul></div>",
+    "content": "New Features\n------------\n\n*   You can now play a YouTube video on audience screens as if you were watching it with your audience. When you pause the video it will stop playing at the audience screens, and when you start it will start playing at the audience screens.\n\nFixes\n-----\n\n*   Fix displaying an empty paid subscribers list for users who have less than 100 subscribers\n*   Fix when the subscription price is updated, discount codes created for subscriptions become invalid.\n*   Fix stream video recordings are downloaded in low resolution",
     "tags": [
       "features"
     ],
@@ -10,7 +10,7 @@
     "publish": true,
     "createdAt": 1654085295412,
     "version": "1.15.0",
-    "updatedAt": 1654088692660
+    "updatedAt": 1654088721960
   },
   {
     "ID": "5b457d75-e641-4931-b7c1-105902975711",
