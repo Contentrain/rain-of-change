@@ -87,6 +87,14 @@
     "publish": true,
     "version": "1.1.0",
     "createdAt": 1654085549798,
-    "updatedAt": 1654088803115
+    "updatedAt": 1654088803115,
+    "versionTags": [
+      {
+        "ID": "4915c1c0-184e-4e17-b544-4bfeab4b0809",
+        "text": "improvements",
+        "color": "lime",
+        "createdAt": 1654090535192
+      }
+    ]
   }
 ]
