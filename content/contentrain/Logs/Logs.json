@@ -66,6 +66,12 @@
         "text": "bug-fixes",
         "color": "red",
         "createdAt": 1654090472169
+      },
+      {
+        "ID": "1f24f01e-17bc-410f-a400-76f1ed97b159",
+        "text": "features",
+        "color": "green",
+        "createdAt": 1654090481434
       }
     ]
   },
