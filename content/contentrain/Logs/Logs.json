@@ -94,6 +94,12 @@
         "text": "improvements",
         "color": "lime",
         "createdAt": 1654090535192
+      },
+      {
+        "ID": "65193270-0c3d-40ab-9f66-6b7c640442f4",
+        "text": "fixes",
+        "color": "zinc",
+        "createdAt": 1654090546087
       }
     ]
   }
