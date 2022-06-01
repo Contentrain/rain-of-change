@@ -10,7 +10,15 @@
     "publish": true,
     "createdAt": 1654085295412,
     "version": "1.15.0",
-    "updatedAt": 1654088721960
+    "updatedAt": 1654088721960,
+    "versionTags": [
+      {
+        "ID": "0cfbb124-cc09-4ff3-a522-220efeb8a148",
+        "text": "features",
+        "color": "blue",
+        "createdAt": 1654090125481
+      }
+    ]
   },
   {
     "ID": "5b457d75-e641-4931-b7c1-105902975711",
