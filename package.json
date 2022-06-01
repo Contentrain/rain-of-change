@@ -1,0 +1,22 @@
+{
+  "private": true,
+  "scripts": {
+    "build": "nuxi build",
+    "dev": "nuxi dev",
+    "generate": "nuxi generate",
+    "preview": "nuxi preview",
+    "lint": "eslint ."
+  },
+  "devDependencies": {
+    "@nuxt/content": "^2.0.0",
+    "@nuxtjs/eslint-config-typescript": "^10.0.0",
+    "@nuxtjs/tailwindcss": "^5.1.2",
+    "@tailwindcss/typography": "^0.5.2",
+    "eslint": "^8.16.0",
+    "nuxt": "3.0.0-rc.3",
+    "typescript": "^4.7.2"
+  },
+  "dependencies": {
+    "remixicon": "^2.5.0"
+  }
+}
