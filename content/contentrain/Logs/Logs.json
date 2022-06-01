@@ -17,6 +17,12 @@
         "text": "features",
         "color": "blue",
         "createdAt": 1654090125481
+      },
+      {
+        "ID": "e0bc1bea-54c3-4078-be84-029cdc0711d6",
+        "text": "bug-fix",
+        "color": "red",
+        "createdAt": 1654090144182
       }
     ]
   },
