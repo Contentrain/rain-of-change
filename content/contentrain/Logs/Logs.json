@@ -6,6 +6,8 @@
     "slug": "v-1-15",
     "relaseDate": "2022-04-13 12:00",
     "publish": true,
-    "createdAt": 1654085295412
+    "createdAt": 1654085295412,
+    "version": "1.15.0",
+    "updatedAt": 1654085352082
   }
 ]
