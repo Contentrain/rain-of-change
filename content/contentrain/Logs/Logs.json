@@ -1,7 +1,7 @@
 [
   {
     "ID": "935a0480-1153-403a-b781-998a0bb3b709",
-    "content": "### [Bug Fixes](/changelog/#bug-fixes)\n\n*   **content:** add missing `:is=\"tag\"` to `nuxt-content-container` ([ef7b18d](https://github.com/nuxt/content/commit/ef7b18dde22e9c10db4d8ad4f6c1ab0a0c7b1790))\n*   **content:** merge class and style attribute ([#905](https://github.com/nuxt/content/issues/905)) ([d905ffe](https://github.com/nuxt/content/commit/d905ffe35bfba8ccfb4db534d6571fcabff8ef8c))\n*   **content:** prevent editor extending on typing ([#933](https://github.com/nuxt/content/issues/933)) ([d4dce1e](https://github.com/nuxt/content/commit/d4dce1eabc66d19f31ee412e9eb844517cc60586))\n*   **content:** update type definition for `QueryBuilder.fetch()` ([#825](https://github.com/nuxt/content/issues/825)) ([4cc224e](https://github.com/nuxt/content/commit/4cc224ef2779d2000092333ab9b5ac3f99171674))\n*   terminal time log information display error ([#891](https://github.com/nuxt/content/issues/891)) ([1f12dd5](https://github.com/nuxt/content/commit/1f12dd59bc0055ec0eb4b333edde0dd4433780ef))\n\n### [Features](/changelog/#features)\n\n*   add yarn v2 (berry) support ([#820](https://github.com/nuxt/content/issues/820)) ([971c36f](https://github.com/nuxt/content/commit/971c36f685e2ef8bc66529c8124aa40969ab8402))\n*   **content:** support `useCache` option ([#772](https://github.com/nuxt/content/issues/772)) ([9d7f3a0](https://github.com/nuxt/content/commit/9d7f3a008bb08fae5670d9842fd81832fcfe3beb))\n\n👍 3😂 1🎉 3❤️ 12\n\n[\n\nv1.15.0\n-------\n\n](https://github.com/nuxt/content/releases/tag/%40nuxt/content%401.15.0)\n\n[\n\n![](https://avatars.githubusercontent.com/u/5158436?v=4)\n\n@pi0\n\n](https://github.com/pi0)\n\nOctober 25, 2021",
+    "content": "<div itemprop=\"articleBody\" class=\"content\"><h2>New Features</h2>\n<ul>\n<li>You can now play a YouTube video on audience screens as if you were watching it with your audience. When you pause the video it will stop playing at the audience screens, and when you start it will start playing at the audience screens.</li>\n</ul>\n<h2>Fixes</h2>\n<ul>\n<li>Fix displaying an empty paid subscribers list for users who have less than 100 subscribers</li>\n<li>Fix when the subscription price is updated, discount codes created for subscriptions become invalid.</li>\n<li>Fix stream video recordings are downloaded in low resolution</li>\n</ul></div>",
     "tags": [
       "features"
     ],
@@ -10,7 +10,7 @@
     "publish": true,
     "createdAt": 1654085295412,
     "version": "1.15.0",
-    "updatedAt": 1654085352082
+    "updatedAt": 1654088692660
   },
   {
     "ID": "5b457d75-e641-4931-b7c1-105902975711",
