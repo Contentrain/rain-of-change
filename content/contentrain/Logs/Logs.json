@@ -1,7 +1,7 @@
 [
   {
     "ID": "935a0480-1153-403a-b781-998a0bb3b709",
-    "content": "::log-header\n---\nversion: version\nversionTags: verisionTags\nrelaseDate: relaseDate\n---\n::\n\nNew Features\n------------\n\n*   You can now play a YouTube video on audience screens as if you were watching it with your audience. When you pause the video it will stop playing at the audience screens, and when you start it will start playing at the audience screens.\n\nFixes\n-----\n\n*   Fix displaying an empty paid subscribers list for users who have less than 100 subscribers\n*   Fix when the subscription price is updated, discount codes created for subscriptions become invalid.\n*   Fix stream video recordings are downloaded in low resolution",
+    "content": "New Features\n------------\n\n*   You can now play a YouTube video on audience screens as if you were watching it with your audience. When you pause the video it will stop playing at the audience screens, and when you start it will start playing at the audience screens.\n\nFixes\n-----\n\n*   Fix displaying an empty paid subscribers list for users who have less than 100 subscribers\n*   Fix when the subscription price is updated, discount codes created for subscriptions become invalid.\n*   Fix stream video recordings are downloaded in low resolution",
     "tags": [
       "features"
     ],
@@ -10,7 +10,7 @@
     "publish": true,
     "createdAt": 1654085295412,
     "version": "1.15.0",
-    "updatedAt": 1654092536811,
+    "updatedAt": 1654093902355,
     "versionTags": [
       {
         "ID": "0cfbb124-cc09-4ff3-a522-220efeb8a148",
