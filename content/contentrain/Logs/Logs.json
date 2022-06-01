@@ -38,7 +38,15 @@
     "publish": true,
     "version": "1.14.0",
     "createdAt": 1654085424593,
-    "updatedAt": 1654088768311
+    "updatedAt": 1654088768311,
+    "versionTags": [
+      {
+        "ID": "a21147ee-cad1-430e-93d0-2b39faee015b",
+        "text": "improvement",
+        "color": "yellow",
+        "createdAt": 1654090457218
+      }
+    ]
   },
   {
     "ID": "5ceb28b6-c6a0-4e6d-99c9-b049797258ea",
