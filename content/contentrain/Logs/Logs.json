@@ -28,7 +28,9 @@
   },
   {
     "ID": "5ceb28b6-c6a0-4e6d-99c9-b049797258ea",
-    "tags": [],
+    "tags": [
+      "features"
+    ],
     "slug": "v-1-7-0",
     "content": "### [🚀 Features](/changelog/#-features)\n\n*   [#312](https://github.com/nuxt/content/issues/312) Add custom editor API\n\n### [🐛 Bug Fixes](/changelog/#-bug-fixes)\n\n*   [#404](https://github.com/nuxt/content/issues/404) Fix `v-bind` inside `nuxt-content` component\n*   [#408](https://github.com/nuxt/content/issues/408) Use `defu.arrayFn` instead of custom merger\n*   [#409](https://github.com/nuxt/content/issues/409) Improve typings\n\n### [💖 Thanks to](/changelog/#-thanks-to)\n\n*   [**@mathe42**](https://github.com/mathe42)\n*   [**@danielkellyio**](https://github.com/danielkellyio)\n*   [**@nogic1008**](https://github.com/nogic1008)\n\n[\n\nv1.7.0\n------\n\n](https://github.com/nuxt/content/releases/tag/%40nuxt/content%401.7.0)\n\n[\n\n![](https://avatars.githubusercontent.com/u/739984?v=4)\n\n@benjamincanac\n\n](https://github.com/benjamincanac)\n\nAugust 25, 2020",
     "relaseDate": "2021-11-16 12:00",
