@@ -4,19 +4,21 @@
       <LogCard v-for="log in logs" :key="log.version" :log="log" />
     </div>
 
-    <div v-else class="w-full text-center">
+    <div v-else class="w-full text-gray-500 text-center mt-36">
       <h1 class="text-semibold text-xl">
-        A log records has not been found.
+        Ooopss! There are no logs to show.
       </h1>
     </div>
-    <button v-if="showButton" class="text-blue-500 text-bold p-2 mt-6 flex justify-start items-center" @click="limit += 5">
-      Browse all updates <i class="ri-arrow-down-s-line text-2xl ml-2" />
-    </button>
+    <div v-if="showButton" class="w-full flex justify-center">
+      <button class="text-blue-500 text-bold p-2 mt-6 flex justify-start items-center" @click="limit += 5">
+        Browse all updates <i class="ri-arrow-down-s-line text-2xl ml-2" />
+      </button>
+    </div>
   </div>
 </template>
 
 <script setup>
-const limit = ref(1)
+const limit = ref(5)
 const allLogs = await queryContent('logs').find()
 const showButton = computed(() => {
   if (allLogs.length > limit.value) {
@@ -36,5 +38,3 @@ watch(limit, async () => {
   logs.value = data
 })
 </script>
-
-<style scoped></style>

@@ -1,5 +1,5 @@
 <template>
-  <article class="log-card py-12">
+  <article v-if="log.publish" class="log-card py-12">
     <log-header
       :version="log.version"
       :version-tags="log.versionTags"
