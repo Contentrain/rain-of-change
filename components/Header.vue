@@ -1,5 +1,5 @@
 <template>
-  <header class="app-header fixed w-full h-24 top-0 border-b-2 border-gray-200 bg-white z-10">
+  <header class="app-header fixed w-full h-24 top-0 border-b-2 border-gray-100 bg-white z-10">
     <nav class="max-w-2xl px-4 py-6 m-auto flex justify-between">
       <a
         class="logo-container flex items-center"
