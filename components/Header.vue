@@ -59,13 +59,13 @@
         </div>
       </a>
       <div class="social-icons text-gray-400 flex items-center text-xl">
-        <a class="ml-4 hover:text-blue-500" href="http://" target="_blank" rel="noopener noreferrer">
+        <a class="ml-4 hover:text-blue-500" href="https://github.com/Contentrain/rain-of-change.git" target="_blank" rel="noopener noreferrer">
           <i class="ri-github-fill" />
         </a>
-        <a class="ml-4 hover:text-blue-500" href="http://" target="_blank" rel="noopener noreferrer">
+        <a class="ml-4 hover:text-blue-500" href="https://twitter.com/contentrain_io" target="_blank" rel="noopener noreferrer">
           <i class="ri-twitter-fill" />
         </a>
-        <a class="ml-4 hover:text-blue-500" href="http://" target="_blank" rel="noopener noreferrer">
+        <a class="ml-4 hover:text-blue-500" href="https://www.linkedin.com/company/contentrain" target="_blank" rel="noopener noreferrer">
           <i class="ri-linkedin-fill" />
         </a>
       </div>
