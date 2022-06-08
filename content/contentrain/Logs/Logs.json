@@ -1,32 +1,5 @@
 [
   {
-    "ID": "935a0480-1153-403a-b781-998a0bb3b709",
-    "content": "New Features\n------------\n\n*   You can now play a YouTube video on audience screens as if you were watching it with your audience. When you pause the video it will stop playing at the audience screens, and when you start it will start playing at the audience screens.\n\nFixes\n-----\n\n*   Fix displaying an empty paid subscribers list for users who have less than 100 subscribers\n*   Fix when the subscription price is updated, discount codes created for subscriptions become invalid.\n*   Fix stream video recordings are downloaded in low resolution",
-    "tags": [
-      "features"
-    ],
-    "slug": "v-1-15",
-    "relaseDate": "2022-04-13 12:00",
-    "publish": true,
-    "createdAt": 1654085295412,
-    "version": "1.15.0",
-    "updatedAt": 1654093902355,
-    "log-items": [
-      {
-        "ID": "0cfbb124-cc09-4ff3-a522-220efeb8a148",
-        "text": "features",
-        "color": "blue",
-        "createdAt": 1654090125481
-      },
-      {
-        "ID": "e0bc1bea-54c3-4078-be84-029cdc0711d6",
-        "text": "bug-fix",
-        "color": "red",
-        "createdAt": 1654090144182
-      }
-    ]
-  },
-  {
     "ID": "5b457d75-e641-4931-b7c1-105902975711",
     "tags": [
       "features",
