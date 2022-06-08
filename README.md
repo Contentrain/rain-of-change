@@ -4,7 +4,7 @@
 # Rain of Change
 A free Changelog template created with [Nuxt 3.0](https://nuxtjs.org) & [Nuxt Content 2.0](https://content.nuxtjs.org) that you can use for your projects.
 
-## Use This Template With CMS
+## Headless CMS
 
 Contentrain'de bu template için tüm entegrasyonu tamamlanmış koleksiyonları oluşturduk. Dilersen Contentrain'e ücretsiz olarak kayıt olarak Github repona aldığın template'ine bağlanabilir ve Shared Collections bölünümden Logs koleksiyonunu seçerek kullanabilirsin.
 Bu sayede tüm loglarını Contentrain ile kolayca yönetebilirsin.
