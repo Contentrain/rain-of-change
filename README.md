@@ -8,9 +8,14 @@ A free Changelog template created with [Nuxt 3.0](https://nuxtjs.org) & [Nuxt Co
 
 Contentrain'de bu template için tüm entegrasyonu tamamlanmış koleksiyonları oluşturduk. Dilersen Contentrain'e ücretsiz olarak kayıt olarak Github repona aldığın template'ine bağlanabilir ve Shared Collections bölünümden Logs koleksiyonunu seçerek kullanabilirsin.
 Bu sayede tüm loglarını Contentrain ile kolayca yönetebilirsin.
-
 Contentrain ile bu template'in kullanımına ilişkin videoyu çok yakında paylaşacağız.
 
+## Frontmatter
+|variable|description|options|
+|-|-|-|
+|publish|İçeriğinin yayınlanması için kontrol sağlar.| true or false|
+|relaseDate|Logların için tarih belirlemeni sağlar| -|
+|tags|Sürüm etiketini belirleyerek Tag componentinde renk | -|
 ## Setup
 
 Make sure to install the dependencies:
