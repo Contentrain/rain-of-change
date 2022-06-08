@@ -11,7 +11,7 @@
     "createdAt": 1654085295412,
     "version": "1.15.0",
     "updatedAt": 1654093902355,
-    "versionTags": [
+    "log-items": [
       {
         "ID": "0cfbb124-cc09-4ff3-a522-220efeb8a148",
         "text": "features",
@@ -39,7 +39,7 @@
     "version": "1.14.0",
     "createdAt": 1654085424593,
     "updatedAt": 1654088768311,
-    "versionTags": [
+    "log-items": [
       {
         "ID": "a21147ee-cad1-430e-93d0-2b39faee015b",
         "text": "improvement",
@@ -60,7 +60,7 @@
     "version": "v1.7.0",
     "createdAt": 1654085475715,
     "updatedAt": 1654088839590,
-    "versionTags": [
+    "log-items": [
       {
         "ID": "a990ad2a-3d92-430a-b805-92680c327b89",
         "text": "bug-fixes",
@@ -88,7 +88,7 @@
     "version": "1.1.0",
     "createdAt": 1654085549798,
     "updatedAt": 1654088803115,
-    "versionTags": [
+    "log-items": [
       {
         "ID": "4915c1c0-184e-4e17-b544-4bfeab4b0809",
         "text": "improvements",
@@ -109,7 +109,7 @@
     "slug": "readme",
     "relaseDate": "2022-06-28 12:00",
     "publish": true,
-    "versionTags": [],
-    "createdAt": 1654690525019
+    "createdAt": 1654690525019,
+    "log-items": []
   }
 ]
