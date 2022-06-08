@@ -4,12 +4,12 @@
 # Rain of Change
 A free Changelog template created with [Nuxt 3.0](https://nuxtjs.org) & [Nuxt Content 2.0](https://content.nuxtjs.org) that you can use for your projects.
 
-## Contentrain
+## Use This Template With CMS
 
-- Create pages in Markdown in the `content/` directory
-- Generated navigation based on your pages
-- Create Vue components and use them in your Markdown
-- Deploy on any Node or Static hosting: GH Pages, Vercel, Netlify, Heroku, etc.
+Contentrain'de bu template için tüm entegrasyonu tamamlanmış koleksiyonları oluşturduk. Dilersen Contentrain'e ücretsiz olarak kayıt olarak Github repona aldığın template'ine bağlanabilir ve Shared Collections bölünümden Logs koleksiyonunu seçerek kullanabilirsin.
+Bu sayede tüm loglarını Contentrain ile kolayca yönetebilirsin.
+
+Contentrain ile bu template'in kullanımına ilişkin videoyu çok yakında paylaşacağız.
 
 ## Setup
 
