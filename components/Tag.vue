@@ -36,7 +36,3 @@ const tailwindColors = {
 }
 
 </script>
-
-<style scoped>
-
-</style>

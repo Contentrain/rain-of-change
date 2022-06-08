@@ -1,8 +1,7 @@
 <template>
   <article v-if="log.publish" class="log-card py-12">
     <log-header
-      :version="log.version"
-      :version-tags="log.versionTags"
+      :tags="log.tags"
       :date="log.relaseDate"
     />
     <ContentRenderer class="prose prose-gray" :value="log" />

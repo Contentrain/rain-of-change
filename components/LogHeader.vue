@@ -1,9 +1,9 @@
 <template>
   <div class="v-full flex justify-between pb-6">
-    <div v-if="versionTags" class="tags mb-1">
+    <div v-if="tags" class="tags mb-1">
       <Tag
-        v-for="tag in versionTags"
-        :key="tag.text + version"
+        v-for="tag in tags"
+        :key="tag.text + tag.color"
         :tag="tag"
       />
     </div>
@@ -19,15 +19,11 @@
 <script setup>
 // eslint-disable-next-line @typescript-eslint/no-unused-vars
 const props = defineProps({
-  version: {
-    type: String,
-    required: true
-  },
   date: {
     type: String,
     required: true
   },
-  versionTags: {
+  tags: {
     type: Array,
     required: true
   }
