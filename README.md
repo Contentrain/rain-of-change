@@ -5,17 +5,26 @@
 A free Changelog template created with [Nuxt 3.0](https://nuxtjs.org) & [Nuxt Content 2.0](https://content.nuxtjs.org) that you can use for your projects.
 
 ## Headless CMS
+[![Use with Contentrain](https://imagedelivery.net/yx26LyQGM_miwnGU8RnEaw/721c176e-f4b1-4495-1d6c-87a4b9ffa100/public)](https://app.contentrain.io)
 
 Contentrain'de bu template için tüm entegrasyonu tamamlanmış koleksiyonları oluşturduk. Dilersen Contentrain'e ücretsiz olarak kayıt olarak Github repona aldığın template'ine bağlanabilir ve Shared Collections bölünümden Logs koleksiyonunu seçerek kullanabilirsin.
 Bu sayede tüm loglarını Contentrain ile kolayca yönetebilirsin.
 Contentrain ile bu template'in kullanımına ilişkin videoyu çok yakında paylaşacağız.
 
 ## Frontmatter
+#### Default
 |variable|description|options|
 |-|-|-|
 |publish|İçeriğinin yayınlanması için kontrol sağlar.| true or false|
 |relaseDate|Logların için tarih belirlemeni sağlar| -|
-|tags|Sürüm etiketini belirleyerek Tag componentinde renk | -|
+|tags|Sürüm etiketini ve etiket renklerini belirlemeni sağlar. | -|
+
+#### Tag Object
+|variable|description|options|
+|-|-|-|
+|text| "Features, Bug Fix" gibi sürüm etiketleri oluşturabilirsiniz| -|
+|color| Etiket için renk seçebilirsin | blue,red, yellow, gray, zinc, green, purple, orange, pink, teal, indigo, cyan, brown, slate, amber, lime, emerald, sky |
+
 ## Setup
 
 Make sure to install the dependencies:
