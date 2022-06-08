@@ -27,34 +27,6 @@
     ]
   },
   {
-    "ID": "a12b3f86-ac9a-4d54-830c-b9775c2c25a0",
-    "tags": [
-      "features",
-      "bug-fixes"
-    ],
-    "slug": "v-1-1-0",
-    "content": "Improvements\n------------\n\n*   Now speakers can join a stream with an easier flow. One click through the link shared with you is enough to join a stream you are invited. Also in the stream page, event link is much more discoverable now for people who wants to share the event with others.\n*   When people ask a question in chat during a livestream, we onboard them how to turn their message into a question type so that it can be upvoted by the audience and answered by the host.\n\nFixes\n-----\n\n*   Fix display problems when adding speakers to a stream with twitter handle.",
-    "relaseDate": "2021-01-19 12:00",
-    "publish": true,
-    "version": "1.1.0",
-    "createdAt": 1654085549798,
-    "updatedAt": 1654088803115,
-    "log-items": [
-      {
-        "ID": "4915c1c0-184e-4e17-b544-4bfeab4b0809",
-        "text": "improvements",
-        "color": "lime",
-        "createdAt": 1654090535192
-      },
-      {
-        "ID": "65193270-0c3d-40ab-9f66-6b7c640442f4",
-        "text": "fixes",
-        "color": "zinc",
-        "createdAt": 1654090546087
-      }
-    ]
-  },
-  {
     "content": "\n[![Change Of Rain](https://github.com/Contentrain/rain-of-change/blob/main/static/cover.png?raw=true)](https://change-log-red.vercel.app/)\n\n# Rain of Change\nA free Changelog template created with [Nuxt 3.0](https://nuxtjs.org) & [Nuxt Content 2.0](https://content.nuxtjs.org) that you can use for your projects.\n\n## Headless CMS\n[![Use with Contentrain](https://imagedelivery.net/yx26LyQGM_miwnGU8RnEaw/721c176e-f4b1-4495-1d6c-87a4b9ffa100/public)](https://app.contentrain.io)\n\nContentrain'de bu template için tüm entegrasyonu tamamlanmış koleksiyonları oluşturduk. Dilersen Contentrain'e ücretsiz olarak kayıt olarak Github repona aldığın template'ine bağlanabilir ve Shared Collections bölünümden Logs koleksiyonunu seçerek kullanabilirsin.\nBu sayede tüm loglarını Contentrain ile kolayca yönetebilirsin.\nContentrain ile bu template'in kullanımına ilişkin videoyu çok yakında paylaşacağız.\n\n## Frontmatter\n#### Default\n|variable|description|options|\n|-|-|-|\n|publish|İçeriğinin yayınlanması için kontrol sağlar.| true or false|\n|relaseDate|Logların için tarih belirlemeni sağlar| -|\n|tags|Sürüm etiketini ve etiket renklerini belirlemeni sağlar. | -|\n\n#### Tag Object\n|variable|description|options|\n|-|-|-|\n|text| \"Features, Bug Fix\" gibi sürüm etiketleri oluşturabilirsiniz| -|\n|color| Etiket için renk seçebilirsin | blue,red, yellow, gray, zinc, green, purple, orange, pink, teal, indigo, cyan, brown, slate, amber, lime, emerald, sky |\n\n## Setup\n\nMake sure to install the dependencies:\n\n```bash\n# yarn\nyarn install\n\n# npm\nnpm install\n```\n\n## Development Server\n\nStart the development server on http://localhost:3000\n\n```bash\nnpm run dev\n```\n\n## Deployment\n\n[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/Contentrain/rain-of-change) [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/Contentrain/rain-of-change)\n\n\n### Static Hosting\n\nPre-render the website to be deployed on any static hosting:\n\n```bash\nnpm run generate\n```\n\nThe `dist/` directory is ready to be deployed (symlink to `.output/public`), [learn more on Nuxt docs](https://v3.nuxtjs.org/guide/deploy/static-hosting).\n\n### Node server\n\nBuild the application for production:\n\n```bash\nnpm run build\n```\n\nStart the server in production:\n\n```bash\nnode .output/server/index.mjs\n```\n\nLearn more on [Nuxt docs](https://v3.nuxtjs.org/guide/deploy/node-server) for more information.",
     "ID": "39e99355-bba0-4518-96de-59a968e2707c",
     "slug": "readme",
