@@ -3,8 +3,13 @@ ID: "39e99355-bba0-4518-96de-59a968e2707c"
 slug: "readme"
 relaseDate: "2022-06-28 12:00"
 publish: true
-versionTags: []
 createdAt: 1654690525019
+log-items: []
+tags:
+  - ID: "508dc3fa-59e8-4e29-8163-78e3916c151e"
+    text: "readme"
+    color: "red"
+    createdAt: 1654690608465
 
 ---
 
