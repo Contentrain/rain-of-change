@@ -10,35 +10,52 @@ tags:
     color: "orange"
     createdAt: 1654690608465
     updatedAt: 1654771321415
-updatedAt: 1654770701146
+updatedAt: 1654776025637
 
 ---
 
-[![Change Of Rain](https://github.com/Contentrain/rain-of-change/blob/main/static/cover.png?raw=true)](https://change-log-red.vercel.app/)
+[![Change Of Rain](https://imagedelivery.net/yx26LyQGM_miwnGU8RnEaw/161e2520-980c-4c92-c953-a7080a77a800/public)](https://change-log-red.vercel.app/)
 
 # Rain of Change
-A free Changelog template created with [Nuxt 3.0](https://nuxtjs.org) & [Nuxt Content 2.0](https://content.nuxtjs.org) that you can use for your projects.
+A free Changelog template created with [**Nuxt 3.0**](https://nuxtjs.org) & [**Nuxt Content 2.0**](https://content.nuxtjs.org) that you can use for your projects.
+
+We are very pleased to share our first free template. We hope Rain of Change will help anyone who needs to keep a Changelog for their projects.
+
+You can customize this template as you wish by copying it to your own repository and pulling it to your local.
+
 
 ## Headless CMS
 [![Use with Contentrain](https://imagedelivery.net/yx26LyQGM_miwnGU8RnEaw/721c176e-f4b1-4495-1d6c-87a4b9ffa100/public)](https://app.contentrain.io)
 
-Contentrain'de bu template için tüm entegrasyonu tamamlanmış koleksiyonları oluşturduk. Dilersen Contentrain'e ücretsiz olarak kayıt olarak Github repona aldığın template'ine bağlanabilir ve Shared Collections bölünümden Logs koleksiyonunu seçerek kullanabilirsin.
-Bu sayede tüm loglarını Contentrain ile kolayca yönetebilirsin.
-Contentrain ile bu template'in kullanımına ilişkin videoyu çok yakında paylaşacağız.
+
+To manage the content of this template, we recommend you use [**Contentrain**](Contentrain).
+
+We have created the collection template that you need. You can find and use this collection in “Shared Collections”.
+
+After free registration with [Contentrain](**Contentrain**), you need to start a manual project installation and continue the installation by selecting the Rain of Change repo on Github.
+
+During the installation, it is enough to delete the sample collections in the Collections step, select the Logs collection from the Shared Collections section and complete the installation.
+
+This way you can easily manage all your logs with Contentrain.
+
+If you have any question with the installation, you can send us your questions via [Discord](**Discord**).
+
+We will soon publish a video about how to use this template with Contentrain.
+
 
 ## Frontmatter
 #### Default
 |variable|description|options|
 |-|-|-|
-|publish|İçeriğinin yayınlanması için kontrol sağlar.| true or false|
-|relaseDate|Logların için tarih belirlemeni sağlar| -|
-|tags|Sürüm etiketini ve etiket renklerini belirlemeni sağlar. | -|
+|publish|It provides publication control for your logs| true or false|
+|relaseDate|Allows you to set dates for your logs| -|
+|tags|Allows you to set the version label and label colors. | -|
 
 #### Tag Object
 |variable|description|options|
 |-|-|-|
-|text| "Features, Bug Fix" gibi sürüm etiketleri oluşturabilirsiniz| -|
-|color| Etiket için renk seçebilirsin | blue,red, yellow, gray, zinc, green, purple, orange, pink, teal, indigo, cyan, brown, slate, amber, lime, emerald, sky |
+|text| You can create release tags like "Features, Bug Fix"| -|
+|color| You can choose the color for the tags | blue,red, yellow, gray, zinc, green, purple, orange, pink, teal, indigo, cyan, brown, slate, amber, lime, emerald, sky |
 
 ## Setup
 
