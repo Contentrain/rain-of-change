@@ -202,7 +202,14 @@
     "slug": "2-0-43",
     "relaseDate": "2022-06-08 12:00",
     "publish": false,
-    "tags": [],
+    "tags": [
+      {
+        "ID": "c536c0c1-50dc-46c9-922c-022bbb848d59",
+        "text": "bug-fix",
+        "color": "red",
+        "createdAt": 1654771672316
+      }
+    ],
     "createdAt": 1654770826263
   }
 ]
