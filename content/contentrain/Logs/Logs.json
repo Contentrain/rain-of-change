@@ -101,7 +101,14 @@
     "slug": "1-2-6",
     "relaseDate": "2022-06-15 12:00",
     "publish": true,
-    "tags": [],
+    "tags": [
+      {
+        "ID": "23c66f83-7d28-4f59-9b54-1ea62b3d3fca",
+        "text": "improvement",
+        "color": "green",
+        "createdAt": 1654771064078
+      }
+    ],
     "createdAt": 1654769511051
   },
   {
