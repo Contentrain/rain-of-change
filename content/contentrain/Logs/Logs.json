@@ -117,7 +117,14 @@
     "slug": "1-3-2",
     "relaseDate": "2022-05-21 12:00",
     "publish": true,
-    "tags": [],
+    "tags": [
+      {
+        "ID": "5159df3c-e4b1-469b-b5ec-f8b618a73380",
+        "text": "improvement",
+        "color": "blue",
+        "createdAt": 1654771089079
+      }
+    ],
     "createdAt": 1654769555096
   },
   {
