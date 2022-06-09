@@ -44,7 +44,14 @@
     "slug": "1-0-1",
     "relaseDate": "2022-05-05 12:00",
     "publish": true,
-    "tags": [],
+    "tags": [
+      {
+        "ID": "20446b10-6cd4-42d9-b43a-436a135ad884",
+        "text": "feature",
+        "color": "green",
+        "createdAt": 1654770943864
+      }
+    ],
     "createdAt": 1654769384666,
     "updatedAt": 1654769636444
   },
