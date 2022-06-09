@@ -29,9 +29,10 @@
     "content": "Feature\n-----\n\n\n*   Vivamus vestibulum ntulla nec ante.\n*   Praesent placerat risus quis eros.\n*   Fusce pellentesque suscipit nibh.\n*   Integer vitae libero ac risus egestas placerat.\n*   Vestibulum commodo felis quis tortor.\n*   Ut aliquam sollicitudin leo.\n*   Cras iaculis ultricies nulla.\n*   Donec quis dui at dolor tempor interdum.",
     "slug": "1-0-1",
     "relaseDate": "2022-05-05 12:00",
-    "publish": false,
+    "publish": true,
     "tags": [],
-    "createdAt": 1654769384666
+    "createdAt": 1654769384666,
+    "updatedAt": 1654769636444
   },
   {
     "ID": "dd91635b-1d62-4518-b8d8-e5eb8de6e01a",
