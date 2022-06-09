@@ -1,7 +1,7 @@
 ---
 ID: "39e99355-bba0-4518-96de-59a968e2707c"
 slug: "readme"
-relaseDate: "2022-06-28 12:00"
+relaseDate: "2022-04-26 12:00"
 publish: true
 createdAt: 1654690525019
 tags:
@@ -9,6 +9,7 @@ tags:
     text: "readme"
     color: "red"
     createdAt: 1654690608465
+updatedAt: 1654770701146
 
 ---
 
