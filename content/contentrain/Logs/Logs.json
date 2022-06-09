@@ -39,9 +39,10 @@
     "content": "Features\n-----\n\n\n*   Nunc dignissim risus id metus.\n*   Cras ornare tristique elit.\n\nBug Fix\n-----\n\n*   Lorem ipsum dolor sit amet, consectetuer adipiscing elit.\n*   Aliquam tincidunt mauris eu risus.\n*   Vestibulum auctor dapibus neque.\n*   Nunc dignissim risus id metus.\n*   Cras ornare tristique elit.\n*   Vivamus vestibulum ntulla nec ante.\n*   Praesent placerat risus quis eros.\n*   Fusce pellentesque suscipit nibh.\n*   Integer vitae libero ac risus egestas placerat.\n*   Vestibulum commodo felis quis tortor.\n*   Ut aliquam sollicitudin leo.\n*   Cras iaculis ultricies nulla.\n*   Donec quis dui at dolor tempor interdum.\n",
     "slug": "1-1-0",
     "relaseDate": "2022-05-10 12:00",
-    "publish": false,
+    "publish": true,
     "tags": [],
-    "createdAt": 1654769435004
+    "createdAt": 1654769435004,
+    "updatedAt": 1654769645805
   },
   {
     "ID": "271c02da-de90-4661-9841-c21d79302bf2",
