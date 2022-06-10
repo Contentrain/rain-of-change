@@ -1,6 +1,6 @@
 <template>
   <div class="max-w-2xl px-4 m-auto min-h-screen py-24">
-    <div v-if="logs && logs.length>0" class="logs divide-y divide-gray-100">
+    <div v-if="logs && logs.length > 0" class="logs divide-y divide-gray-100">
       <LogCard v-for="log in logs" :key="log.ID" :log="log" />
     </div>
     <div v-else class="w-full text-gray-500 text-center mt-36">
@@ -19,24 +19,28 @@
   </div>
 </template>
 
-<script setup>
+<script setup lang="ts">
 const limit = ref(5)
-const allLogs = await queryContent('logs').find()
+const { data } = useAsyncData(
+  'logs',
+  async () => await queryContent('logs').find()
+)
 const showButton = computed(() => {
-  if (allLogs.length > limit.value) {
+  if (data.value?.length > limit.value) {
     return true
   } else {
     return false
   }
 })
-const { data } = useAsyncData(
-  'logs',
-  async () => await queryContent('logs').limit(limit.value).find()
-)
-const logs = reactive(data)
 
-watch(limit, async () => {
-  const data = await queryContent('logs').limit(limit.value).find()
-  logs.value = data
+const logs = computed(() => {
+  if (data.value?.length > limit.value) {
+    return data.value.slice(
+      0,
+      limit.value < data.value.length ? limit.value : data.value.length
+    )
+  } else {
+    return data.value
+  }
 })
 </script>
