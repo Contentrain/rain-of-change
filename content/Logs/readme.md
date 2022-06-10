@@ -10,19 +10,22 @@ tags:
     color: "orange"
     createdAt: 1654690608465
     updatedAt: 1654771321415
-updatedAt: 1654874393438
+updatedAt: 1654874784626
 
 ---
 
-[![Change Of Rain](https://imagedelivery.net/yx26LyQGM_miwnGU8RnEaw/161e2520-980c-4c92-c953-a7080a77a800/public)](https://change-log-red.vercel.app/)
+[![Rain Of Change](https://imagedelivery.net/yx26LyQGM_miwnGU8RnEaw/161e2520-980c-4c92-c953-a7080a77a800/public)](https://change-log-red.vercel.app/)
 
-# Rain of Change [![Netlify Status](https://api.netlify.com/api/v1/badges/86ca144b-95be-4813-ae57-5d1ef8f23856/deploy-status)](https://app.netlify.com/sites/delicate-empanada-f78c32/deploys)
+# Rain of Change  [![Netlify Status](https://api.netlify.com/api/v1/badges/86ca144b-95be-4813-ae57-5d1ef8f23856/deploy-status)](https://app.netlify.com/sites/delicate-empanada-f78c32/deploys)
+
+
 A free Changelog template created with [**Nuxt 3.0**](https://nuxtjs.org) & [**Nuxt Content 2.0**](https://content.nuxtjs.org) that you can use for your projects.
 
 We are very pleased to share our first free template. We hope Rain of Change will help anyone who needs to keep a Changelog for their projects.
 
 You can customize this template as you wish by copying it to your own repository and pulling it to your local.
 
+[Live Preview](https://delicate-empanada-f78c32.netlify.app/)
 
 ## Headless CMS
 [![Use with Contentrain](https://imagedelivery.net/yx26LyQGM_miwnGU8RnEaw/721c176e-f4b1-4495-1d6c-87a4b9ffa100/public)](https://app.contentrain.io)
