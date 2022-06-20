@@ -18,11 +18,11 @@ You can customize this template as you wish by copying it to your own repository
 
 To manage the content of this template, we recommend you use [**Contentrain**](Contentrain).
 
-We have created the collection template that you need. You can find and use this collection in “Shared Collections”.
+We have created the collection template that you need. You can find and use this collection in “Community Collections”.
 
 After free registration with [Contentrain](**Contentrain**), you need to start a manual project installation and continue the installation by selecting the Rain of Change repo on Github.
 
-During the installation, it is enough to delete the sample collections in the Collections step, select the Logs collection from the Shared Collections section and complete the installation.
+During the installation, it is enough to delete the sample collections in the Collections step, select the Logs collection from the Community Collections section and complete the installation.
 
 This way you can easily manage all your logs with Contentrain.
 
