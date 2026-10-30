@@ -1,3 +1,6 @@
+> [!NOTE]
+> **Archived.** This repository belongs to the legacy Contentrain CMS and is no longer maintained. For current work see [Contentrain/ai](https://github.com/Contentrain/ai) (open-source packages for teams and AI agents), [Contentrain Studio](https://github.com/Contentrain/studio), and the [Contentrain starters](https://github.com/Contentrain?q=contentrain-starter).
+
 
 [![Rain Of Change](https://imagedelivery.net/yx26LyQGM_miwnGU8RnEaw/161e2520-980c-4c92-c953-a7080a77a800/public)](https://change-log-red.vercel.app/)
 
